@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Bhavana 👋
 
-<!--
-**bhavanabiradar/bhavanabiradar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ECE Undergraduate | Full-Stack & AI Developer
 
-Here are some ideas to get you started:
+I'm an Electronics and Communication Engineering student who enjoys building practical software products, experimenting with AI, and turning ideas into working projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I'm Working With
+
+**Languages:**  
+TypeScript · JavaScript · Python · C
+
+**Web & Development:**  
+Next.js · React · Tailwind CSS · HTML · CSS
+
+**Backend & Tools:**  
+Supabase · Git · GitHub · Vercel
+
+**AI:**  
+Gemini API · AI Application Development
+
+### 🚀 Featured Projects
+
+**RealityOS**  
+AI-powered personal productivity platform built with Next.js, TypeScript, Supabase and Gemini.
+
+**MochaTrade**  
+Educational virtual trading simulator developed for a hackathon.
+
+**Smart Blind Stick**  
+Assistive technology project using Arduino and ultrasonic sensing to detect obstacles and provide audio feedback.
+
+**E-Portal Case Management**  
+Interdisciplinary project focused on digital case management.
+
+**Smart India Hackathon Projects**  
+Collaborative projects developed for Smart India Hackathon problem statements.
+
+### 🌱 Currently Learning
+
+- Advanced full-stack development
+- AI application development
+- System design
+- Building and deploying real-world products
+
+### 📫 Connect With Me
+
+GitHub: [github.com/bhavanabiradar](https://github.com/bhavanabiradar)
